@@ -1,0 +1,9 @@
+dfa
+a b
+s0 s1
+s0
+s0
+s0 a s1
+s1 b s0
+---
+a b
